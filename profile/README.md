@@ -8,3 +8,7 @@ To bundle and expand knowledge and competences as well as promoting young scient
 
 - **Graduate School for Secure and Correct Systems.** i.e., a JKU PhD program at the Faculty of Engineering and Natural Sciences (TNF) with a special focus on secure and correct systems.
 - **Basic and applied research** with partners from industry/business and science
+
+---
+
+![Grouppicture](https://github.com/LIT-Secure-and-Correct-Systems-Lab/.github/blob/main/profile/LIT_SCSL_Grouppicture_logo2b.JPG)
