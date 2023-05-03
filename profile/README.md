@@ -1,6 +1,6 @@
 # Welcome to the LIT Secure and Correct Systems Lab! 
 
-The **LIT Secure and Correct Systems Lab** is a cross-institute, interdisciplinary research platform, founded in 2019 by several JKU institutes and with support from the state of Upper Austria. In 2021, the new [Secure Systems Group](https://www.jku.at/en/lit-secure-and-correct-systems-lab/secure-systems-group/), opens an external URL in a new window chaired by Stefan Rass became the latest addition.
+The **LIT Secure and Correct Systems Lab** is a cross-institute, interdisciplinary research platform, founded in 2019 by several JKU institutes and with support from the state of Upper Austria. In 2021, the new [Secure Systems Group](https://www.jku.at/en/lit-secure-and-correct-systems-lab/secure-systems-group/), chaired by Stefan Rass became the latest addition.
 
 The focus is research on secure and correct IT systems at the highest international level.
 
